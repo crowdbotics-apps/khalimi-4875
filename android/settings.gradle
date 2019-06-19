@@ -1,0 +1,3 @@
+rootProject.name = 'khalimi_4875'
+
+include ':app'

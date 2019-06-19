@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT khalimi_4875.wsgi:application
